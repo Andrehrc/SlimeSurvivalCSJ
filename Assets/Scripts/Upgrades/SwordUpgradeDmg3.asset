@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeSO
   icon: {fileID: 3327364396501109559, guid: 3190ae2e6277581469b8c1e573e56f85, type: 3}
   title: Sword Damage III
-  description: Reduces the axe's reload time by 12%.
+  description: Increases sword damage by 12%.
   type: 0
   value: 0.12
   targetWeapon: {fileID: 11400000, guid: 53d5d079a3fd2ae4f846bd258bf644f0, type: 2}
