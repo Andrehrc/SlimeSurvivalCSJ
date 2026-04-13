@@ -14,4 +14,4 @@ Projeto inspirado em Vampire Survivors desenvolvido em Unity.
 - C#
 
 ## 🚀 Status
-Aguardando Publicação
+Publicado em [Itch.io](https://zolansky.itch.io/slime-survivors)
